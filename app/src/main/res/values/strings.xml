@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="list_button">Shopping List</string>
+    <string name="list_text">Shopping List:</string>
+    <string name="what_item">What to buy?</string>
+    <string name="where">Where to buy?</string>
+    <string name="where_to_buy_text"> Pick a Shop</string>
+    <string name="add_button">Add New Item</string>
+    <string name="no_items_added">Please, fill both info to add new items.</string>
+    <string name="delete_button">Delete All Items</string>
+    <string name="shop_picker_title">Pick a Shopping Store:</string>
+    <string name="favorite_icon">Favorite</string>
+    <string name="extension_icon">Extension</string>
+    <string name="search_icon">Search</string>
+</resources>

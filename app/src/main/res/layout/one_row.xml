@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/background_light"
+    android:padding="3dp">
+
+    <TextView
+        android:id="@+id/what_recycler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_weight="7"
+        android:textAllCaps="true"
+        android:layout_marginTop="7dp"
+        android:padding="2dp"/>
+
+    <TextView
+        android:id="@+id/where_recycler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="7"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:layout_marginTop="7dp"
+        android:padding="2dp"/>
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_weight="1"
+        android:background="@android:color/background_light"
+        app:srcCompat="@android:drawable/ic_delete"
+        android:padding="3dp"/>
+
+</LinearLayout>
