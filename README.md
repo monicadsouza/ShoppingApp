@@ -1,4 +1,4 @@
-# Project: ShoppingApp
+# Project: Shopping App
 
 This repository contains the source code for my implementation
 of the Shopping App project in the Mobile App Development course,
