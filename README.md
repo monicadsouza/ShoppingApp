@@ -6,7 +6,7 @@ a second semester course of the Software Development - Design Track - Master at 
 
 ## Getting Started
 
-To run the project please clone the repository and open with Android Studio.
+To run the app please clone the repository, import, build and run with Android Studio.
 
 ## Author
 
